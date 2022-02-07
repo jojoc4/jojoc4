@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm jojoc4</h1>
 <h3 align="center">A passionate of science and new technologies</h3>
 
-<p align="left"> <a href="https://twitter.com/joj0c4" target="blank"><img src="https://img.shields.io/twitter/follow/joj0c4?logo=twitter&style=for-the-badge" alt="joj0c4" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/joj0c4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joj0c4" height="30" width="40" /></a>
